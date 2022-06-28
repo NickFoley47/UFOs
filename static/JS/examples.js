@@ -68,3 +68,15 @@ function listLoop(userList) {
 //i < userList.length; Here we're basically saying, "If this iterable (i) is still smaller than the total number of iterables in the list (userList), then move on to the next step."
 //So if we're on the second name, but the list is four names long, the for loop will continue to loop through it.
 //The final step, i++, increases the iterable by 1. We're using list comprehension here; the for loop knows to iterate to the next name because the index number has increased by 1.
+
+
+// IF Examples
+
+// if-statement syntax
+if ( condition ) { code to execute }
+
+// pseudocode practice
+if (a date is entered) {
+  Filter the default data to show only the date entered
+};
+
