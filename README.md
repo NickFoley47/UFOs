@@ -34,6 +34,7 @@ Filter based on Shape and Date:
 
 Drawback of updated webpage: 
 -	The filters are very strict. If a user types in “Tx” or “TX” the filter will not be applied for Texas. The filter must match the data point exactly the way it is displayed. This applies for all filters, which means the user must be careful with what they input 
+
 Recommendations:
 -	Allow user input to be more relaxed to allow for filters not have to have precise data match. For example, the filter will recognize “ca”  as “Ca” or “CA”. This will allow for more user-friendly input.  
 -	Another recommendation would be adding any pictures that these sightings may have, it will allow for the user to interact with the webpage more and compare their sightings if they have had any.
