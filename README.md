@@ -25,7 +25,8 @@ Filter based on State and Date:
 ![filter_exa]( https://github.com/NickFoley47/UFOs/blob/main/static/Images/filter_exa.PNG)
 
 The user can change filters by deleting their old filters information and filling out any other filters they would like on their next search. 
-Filter based on
+
+Filter based on Shape and Date:
 
 ![filter_exa2](https://github.com/NickFoley47/UFOs/blob/main/static/Images/filter_exa2.PNG)
 
