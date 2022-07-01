@@ -1,7 +1,7 @@
 # UFO Sightings
 
 ## Project Overview
-Develop a webpage to provide an analysis on UFO sightings throughout the United States. Added filters to allow for multiple criteria searches and find certain data points they acquire for. 
+Develop a webpage to provide an analysis on UFO sightings throughout the United States. Added filters to allow for multiple criteria searches and find certain data points users acquire for. 
 ## Resources
 Software: Java Script, HTML, CSS, BootStrap
 
